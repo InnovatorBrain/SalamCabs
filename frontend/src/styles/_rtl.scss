@@ -1,0 +1,11 @@
+@use 'variables' as *;
+
+[dir='rtl'] {
+  .navbar-nav {
+    text-align: start;
+  }
+
+  .faq-question {
+    text-align: start;
+  }
+}

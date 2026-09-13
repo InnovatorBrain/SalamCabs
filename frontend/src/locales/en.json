@@ -1,0 +1,593 @@
+{
+  "seo": {
+    "home": {
+      "title": "Salam Cab – Umrah Taxi & Airport Transfers in Makkah, Madinah & Jeddah",
+      "description": "Book a licensed private taxi for Umrah, Hajj, and airport transfers across Makkah, Madinah, and Jeddah. Fixed prices, 24/7 support, and a modern fleet of sedans, vans, and buses.",
+      "keywords": "Umrah taxi, Makkah Madinah transfer, Jeddah airport taxi, Hajj transport service, private car service Saudi Arabia, Makkah airport transfer, Madinah taxi booking"
+    },
+    "about": {
+      "title": "About Salam Cab",
+      "description": "Learn about Salam Cab, a trusted private transfer company serving pilgrims and travelers across Makkah, Madinah, and Jeddah with licensed drivers and a modern, comfortable fleet.",
+      "keywords": "about Salam Cab, Umrah transport company, trusted taxi service Saudi Arabia"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Get in touch with Salam Cab for Umrah taxi bookings, airport transfers, and group transport across Saudi Arabia. Call, WhatsApp, or send us a message — we respond 24/7.",
+      "keywords": "contact Salam Cab, book Umrah taxi, Jeddah airport transfer booking, WhatsApp taxi booking Saudi Arabia"
+    },
+    "booking": {
+      "title": "Book Your Ride",
+      "description": "Book your Umrah taxi, one-way transfer, round trip, or hourly ride online in minutes. Transparent pricing, instant confirmation, and cash payment on arrival.",
+      "keywords": "book Umrah taxi online, Makkah Madinah transfer booking, Jeddah airport pickup, Saudi Arabia taxi booking"
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "Read Salam Cab's privacy policy to learn how we collect, use, and protect your personal information when you book a transfer with us.",
+      "keywords": "Salam Cab privacy policy"
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "description": "Review the terms and conditions for booking and using Salam Cab's private transfer and taxi services across Saudi Arabia.",
+      "keywords": "Salam Cab terms and conditions"
+    },
+    "refund": {
+      "title": "Refund Policy",
+      "description": "Understand Salam Cab's cancellation and refund policy for Umrah taxi bookings, airport transfers, and group transport services.",
+      "keywords": "Salam Cab refund policy, booking cancellation policy"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "quote": "Request a Quote",
+    "service": "Service",
+    "contact": "Contact",
+    "bookingNow": "Booking Now",
+    "contactUs": "Contact Us",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More"
+  },
+  "language": {
+    "en": "EN",
+    "ar": "AR",
+    "switchTo": "Switch to Arabic",
+    "switchToEn": "Switch to English"
+  },
+  "validation": {
+    "nameRequired": "Name is required",
+    "emailInvalid": "Please enter a valid email",
+    "phoneInvalid": "Please enter a valid phone number",
+    "subjectRequired": "Please select a subject",
+    "messageRequired": "Message must be at least 10 characters",
+    "pickupRequired": "Pick-up location is required",
+    "dropoffRequired": "Drop-off location is required",
+    "packageRequired": "Please select a round trip package",
+    "dateRequired": "Date is required",
+    "timeRequired": "Time is required",
+    "passengersRequired": "At least 1 passenger required",
+    "vehicleRequired": "Please select a vehicle",
+    "fullNameRequired": "Full name is required"
+  },
+  "toast": {
+    "bookingSuccess": "Booking submitted successfully!",
+    "bookingError": "Failed to submit booking. Please try again.",
+    "contactSuccess": "Message sent successfully!",
+    "contactError": "Failed to send message. Please try again."
+  },
+  "home": {
+    "heroTitle": "Premium",
+    "heroHighlight1": "Umrah & Airport",
+    "heroTitleMid": "Transfers Across",
+    "heroHighlight2": "Saudi Arabia",
+    "heroSubtitle": "Reliable, comfortable, and luxury transportation for pilgrims and travelers across the Kingdom.",
+    "rating": "4.9+ Rating",
+    "stats": {
+      "customers": "15,000+",
+      "customersLabel": "Happy Customers",
+      "reliability": "99%",
+      "reliabilityLabel": "Reliability",
+      "rated": "4.9+",
+      "ratedLabel": "Top Rated",
+      "years": "10+",
+      "yearsLabel": "Years Exp.",
+      "cars": "50+",
+      "carsLabel": "Luxury Cars"
+    },
+    "aboutLabel": "About Salam Cab",
+    "aboutTitle": "Your Trusted Partner for Intercity Transportation",
+    "aboutImageAlt": "Salam Cab private driver providing Umrah transfer service in Makkah",
+    "fleetImageAlt": "Salam Cab modern private vehicle used for Umrah and airport transfers",
+    "aboutText": "We provide premium private transfer services across Saudi Arabia with professional drivers, modern fleet, and 24/7 support for Umrah pilgrims and business travelers.",
+    "features": {
+      "fast": "Fast & Reliable Service",
+      "drivers": "Experienced Professional Drivers",
+      "support": "24/7 Customer Support",
+      "booking": "Easy Online Booking",
+      "fleet": "Modern Luxury Fleet",
+      "prices": "Transparent Pricing"
+    },
+    "servicesLabel": "Our Services",
+    "servicesTitle": "Our Premium Cab Services",
+    "seeAll": "See All Services",
+    "services": {
+      "airport": { "title": "Airport Transfer", "desc": "Seamless airport pickups and drop-offs across major Saudi airports." },
+      "makkah": { "title": "Makkah to Madinah", "desc": "Comfortable intercity transfers between the holy cities." },
+      "umrah": { "title": "Umrah Transfer", "desc": "Dedicated Umrah transportation with pilgrim-friendly service." },
+      "hotel": { "title": "Hotel Transfer", "desc": "Door-to-door hotel transfers in Makkah, Madinah, and Jeddah." },
+      "family": { "title": "Family & Group", "desc": "Spacious vehicles for families and group travel." },
+      "corporate": { "title": "Corporate Travel", "desc": "Professional corporate transportation solutions." }
+    },
+    "howTitle": "How to Book Your Salam Cab Trip",
+    "howSteps": {
+      "search": { "title": "Search Route", "desc": "Enter your pick-up and drop-off locations." },
+      "choose": { "title": "Choose Vehicle", "desc": "Select from our premium fleet of vehicles." },
+      "book": { "title": "Confirm Booking", "desc": "Review details and confirm your ride instantly." }
+    },
+    "bookYourRide": "Book Your Ride",
+    "fleet": {
+      "label": "Our Fleet",
+      "title": "Travel in Style, Arrive in Comfort",
+      "subtitle": "Travel in style with premium vehicles designed for comfort, safety, and every journey.",
+      "viewAll": "View All Vehicle",
+      "seatsSuffix": "Seats",
+      "rating": "Rating",
+      "startingFrom": "Starting From",
+      "perTrip": "/trip",
+      "bookVehicle": "Book This Vehicle",
+      "loading": "Loading our fleet…",
+      "loadError": "Couldn't load the fleet. Please check your connection and try again.",
+      "empty": "No vehicles available right now. Please check back soon.",
+      "retry": "Retry",
+      "features": {
+        "ac": "AC",
+        "wifi": "WiFi",
+        "gps": "GPS",
+        "driver": "Pro Driver"
+      }
+    },
+    "valueLabel": "Why Salam Cabs",
+    "valueTitle": "The Trusted Choice for Umrah Pilgrims & Every Journey",
+    "valueItems": {
+      "licensedDrivers": {
+        "title": "Licensed & Verified Drivers",
+        "desc": "Professional, background-checked, multilingual drivers trained to serve Umrah pilgrims with care."
+      },
+      "support247": {
+        "title": "24/7 Customer Support",
+        "desc": "Book anytime via WhatsApp or phone and get fast assistance from our dedicated team."
+      },
+      "fixedPricing": {
+        "title": "Fixed, Transparent Pricing",
+        "desc": "No hidden fees or surge pricing. The price you book is the price you pay, every single time."
+      },
+      "modernFleet": {
+        "title": "Modern, Air-Conditioned Fleet",
+        "desc": "Travel comfortably in clean, well-maintained Camry, HiAce, Staria, Starex, and Coaster vehicles."
+      },
+      "makkahSpecialists": {
+        "title": "Makkah–Madinah Specialists",
+        "desc": "Years of experience providing reliable transfers across the holy cities with optimized routes."
+      },
+      "familiesGroups": {
+        "title": "Perfect for Families & Groups",
+        "desc": "Whether you're traveling alone or with a group of up to 25 passengers, we have the ideal vehicle."
+      }
+    },
+    "destinationsTitle": "Explore Saudi Arabia",
+    "seeAllDestinations": "See All Destinations",
+    "destinations": {
+      "makkah": "Makkah",
+      "madinah": "Madinah",
+      "jeddah": "Jeddah",
+      "ula": "Al-Ula"
+    },
+    "viewDetails": "View Details",
+    "destinationAlt": "Private taxi and Umrah transfer service in {{place}}, Saudi Arabia",
+    "testimonialsTitle": "What Our Customers are Saying",
+    "testimonials": {
+      "t1": { "text": "Excellent service for our Umrah trip. The driver was professional and the car was spotless.", "name": "Ahmed Hassan", "location": "London, UK" },
+      "t2": { "text": "Best airport transfer experience in Jeddah. On time, comfortable, and affordable.", "name": "Fatima Ali", "location": "Dubai, UAE" },
+      "t3": { "text": "We booked for our family of 6. Spacious vehicle and very courteous driver.", "name": "Omar Khan", "location": "Karachi, Pakistan" }
+    },
+    "bookingSectionTitle": "Book Your Ride Now",
+    "oneWay": "One Way",
+    "roundTrip": "Round Trip",
+    "pickup": "Pick-up Location",
+    "dropoff": "Drop-off Location",
+    "date": "Date",
+    "time": "Time",
+    "carType": "Car Type",
+    "carTypes": { "sedan": "Sedan", "suv": "SUV", "van": "Van" },
+    "bookingSummary": "Your Booking Summary",
+    "tripType": "Trip Type",
+    "route": "Route",
+    "total": "Total Estimate",
+    "confirmBooking": "Confirm Booking",
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": {
+      "q1": "How do I book a ride with Salam Cab?",
+      "a1": "Simply enter your pick-up and drop-off locations on our booking page, select your vehicle, and confirm. You'll receive instant confirmation.",
+      "q2": "What payment methods do you accept?",
+      "a2": "We accept credit/debit cards, Apple Pay, and cash payments to the driver.",
+      "q3": "Can I cancel my booking?",
+      "a3": "Yes, free cancellation is available up to 24 hours before your scheduled pick-up time.",
+      "q4": "Do you provide child seats?",
+      "a4": "Yes, child seats are available upon request. Please mention this in special requests when booking."
+    }
+  },
+  "about": {
+    "heroTitle": "About Salam Cabs —",
+    "heroHighlight": "Your Trusted Travel Partner",
+    "heroSince": "Since 2014",
+    "whoLabel": "WHO WE ARE",
+    "whoImageAlt": "Salam Cab premium black sedan for private Umrah and city transfers in Saudi Arabia",
+    "whoTitle": "Your Trusted Partner for Premium Umrah & City Transportation",
+    "whoText1": "Salam Cab has been serving pilgrims and travelers across Saudi Arabia for over a decade. We specialize in premium private transfers with a focus on safety, comfort, and reliability.",
+    "whoText2": "Our fleet of modern vehicles and professionally trained drivers ensure every journey is smooth and stress-free.",
+    "whoFeatures": {
+      "fleet": "Standardized premium vehicle fleet",
+      "drivers": "Professional & trained drivers",
+      "support": "24/7 personalized customer support",
+      "booking": "Hassle-free booking experience"
+    },
+    "expBadge": "10+ Years Experience",
+    "mission": "Our Mission",
+    "missionText": "To provide safe, reliable, and comfortable transportation for every pilgrim and traveler in Saudi Arabia.",
+    "vision": "Our Vision",
+    "visionText": "To be the most trusted premium cab service for Umrah and intercity travel across the Kingdom.",
+    "teamLabel": "MEET OUR TEAM",
+    "teamTitle": "Drivers Who Care",
+    "teamSubtitle": "Our experienced drivers are the heart of Salam Cab.",
+    "drivers": {
+      "d1": { "name": "Mohammed Al-Rashid", "exp": "Exp: 7+ Years" },
+      "d2": { "name": "Abdullah Hassan", "exp": "Exp: 5+ Years" },
+      "d3": { "name": "Khalid Omar", "exp": "Exp: 8+ Years" },
+      "d4": { "name": "Yusuf Ahmed", "exp": "Exp: 6+ Years" }
+    },
+    "pillarsTitle": "Four Pillars, One Promise",
+    "pillars": {
+      "safety": { "title": "Safety", "desc": "Rigorous vehicle maintenance and driver vetting." },
+      "reliability": { "title": "Reliability", "desc": "On-time pickups guaranteed for every booking." },
+      "transparency": { "title": "Transparency", "desc": "Clear pricing with no hidden fees." },
+      "hospitality": { "title": "Hospitality", "desc": "Warm, respectful service for every guest." }
+    },
+    "benefitsTitle": "The Trusted Choice for Umrah Pilgrims & Every Journey",
+    "benefits": {
+      "b1": "Door-to-Door Service",
+      "b2": "GPS Tracked Rides",
+      "b3": "Multilingual Drivers",
+      "b4": "Airport Meet & Greet",
+      "b5": "Child Seat Available",
+      "b6": "Free Cancellation 24h",
+      "b7": "24/7 WhatsApp Support",
+      "b8": "Corporate Accounts"
+    },
+    "stats": {
+      "journeys": "15,000+",
+      "journeysLabel": "Happy Journeys",
+      "satisfaction": "98%",
+      "satisfactionLabel": "Client Satisfaction",
+      "rating": "4.9*",
+      "ratingLabel": "Average Rating",
+      "years": "10+",
+      "yearsLabel": "Years Experience",
+      "fleet": "50+",
+      "fleetLabel": "Modern Fleet"
+    },
+    "testimonialsTitle": "15,000+ Happy Journeys and Counting",
+    "faqTitle": "Frequently Asked Questions"
+  },
+  "contact": {
+    "heroTitle": "Get in",
+    "heroHighlight": "Touch",
+    "formTitle": "Send us a message",
+    "name": "Your Name",
+    "email": "Email Address",
+    "phone": "Phone / WhatsApp",
+    "subject": "Subject",
+    "subjects": {
+      "booking": "Booking Inquiry",
+      "support": "Customer Support",
+      "corporate": "Corporate Account",
+      "other": "Other"
+    },
+    "message": "Your Message",
+    "messagePlaceholder": "How can we help?",
+    "sendMessage": "Send Message",
+    "whatsapp": "WhatsApp (Fastest)",
+    "whatsappBtn": "Open WhatsApp",
+    "phoneTitle": "Phone",
+    "phoneAvailable": "Available 24/7",
+    "callBtn": "Call Now",
+    "emailTitle": "Email",
+    "emailReply": "Reply within 2 hours",
+    "emailBtn": "Send Email",
+    "officeTitle": "Office",
+    "officeAddress": "Lahore, Pakistan / KSA Operations",
+    "openMaps": "Open in Maps",
+    "workingHours": "WORKING HOURS",
+    "workingSubtitle": "Always here when you need us.",
+    "hours": {
+      "satThu": "Saturday - Thursday",
+      "satThuTime": "24 Hours",
+      "fri": "Friday",
+      "friTime": "24 Hours (Limited)",
+      "wa": "WhatsApp",
+      "waTime": "Always Available"
+    },
+    "followUs": "FOLLOW US",
+    "followSubtitle": "Travel inspiration & pilgrim stories."
+  },
+  "booking": {
+    "heroTitle": "Book Your",
+    "heroHighlight": "Premium Cab",
+    "subtitle": "Fast, transparent booking. No hidden fees. Instant confirmation.",
+    "steps": {
+      "verify": "Verify Phone",
+      "trip": "Trip Details",
+      "vehicle": "Choose Vehicle",
+      "confirm": "Confirm"
+    },
+    "otp": {
+      "title": "Verify Your Phone Number",
+      "subtitle": "We'll send a one-time code to your WhatsApp to confirm it's really you before you continue booking.",
+      "phoneLabel": "Mobile Number",
+      "phonePlaceholder": "5XXXXXXXX",
+      "sendOtp": "Send WhatsApp Code",
+      "otpLabel": "Enter OTP Code",
+      "otpPlaceholder": "4-digit code",
+      "verify": "Verify & Continue",
+      "resend": "Resend Code",
+      "changeNumber": "Change Number",
+      "demoNotice": "Demo mode: no real WhatsApp message is sent — your code is shown below and logged in the backend console.",
+      "whatsAppNotice": "Check your WhatsApp for the verification code we just sent.",
+      "demoCodeLabel": "Your demo code",
+      "sentToastMock": "Code generated! Your demo code is {{code}}",
+      "sentToastWhatsApp": "Verification code sent to your WhatsApp",
+      "verifiedToast": "Phone number verified successfully",
+      "invalid": "Incorrect code. Please try again.",
+      "sendFailed": "Could not send the verification code. Please try again.",
+      "verifyRequired": "Please verify your WhatsApp number before confirming the booking.",
+      "otpDigitHint": "Enter the {{digits}}-digit code we just sent you",
+      "phoneInvalid": "Please enter a valid mobile number"
+    },
+    "countryCode": "Country Code",
+    "selectCountry": "Select country",
+    "digitHint": "Enter a {{digits}}-digit mobile number for {{country}} ({{code}})",
+    "tripSavedToast": "Trip details saved! Now choose your vehicle.",
+    "vehicleSavedToast": "Vehicle selected! Add your details to confirm.",
+    "oneWay": "One Way",
+    "roundTrip": "Round Trip",
+    "byHour": "By Hour",
+    "from": "From (Pick-up)",
+    "to": "To (Drop-off)",
+    "selectFrom": "Select starting point",
+    "selectTo": "Select destination",
+    "package": "Round Trip Package",
+    "selectPackage": "Select a round trip package",
+    "byHourNotice": "Hourly bookings are quoted individually — our team will confirm your custom rate on WhatsApp after you submit.",
+    "locations": {
+      "jedAirport": "Jeddah Airport (JED)",
+      "makHotel": "Makkah Hotel",
+      "medHotel": "Madinah Hotel",
+      "medHotelBadr": "Madinah Hotel (via Badr Road)",
+      "medAirport": "Madinah Airport (MED)",
+      "trainStation": "Haramain Train Station",
+      "hotelGeneric": "Hotel (Makkah / Madinah)",
+      "medZiyarat": "Madinah Ziyarat Tour",
+      "makZiyarat": "Makkah Ziyarat Tour",
+      "taif": "Taif (Return Trip)"
+    },
+    "packages": {
+      "jed-mak-med-medapt": "Jeddah → Makkah → Madinah → Madinah Airport",
+      "jed-mak-med-mak-jed": "Jeddah → Makkah → Madinah → Makkah → Jeddah",
+      "jed-mak-med-jed": "Jeddah → Makkah → Madinah → Jeddah",
+      "medapt-mak-med-jed": "Madinah Airport → Makkah → Madinah → Jeddah"
+    },
+    "pickup": "Pick-up location",
+    "pickupPlaceholder": "Search city, area, landmark",
+    "dropoff": "Drop-off Location",
+    "dropoffPlaceholder": "Search city, area, landmark",
+    "date": "Pick-up Date",
+    "time": "Pick-up Time",
+    "passengers": "Number of Passengers",
+    "specialRequests": "Special Requests (optional)",
+    "specialPlaceholder": "Baby seat, extra luggage, language preference",
+    "jeddahHajjSurcharge": "Pickup from Jeddah Hajj Terminal (+SAR 90)",
+    "hajjDropoffSurcharge": "Drop-off at Hajj Terminal — Hiace/Coaster only (+SAR 90)",
+    "loadingRateCard": "Loading routes and pricing…",
+    "rateCardError": "Couldn't load routes and pricing. Please check your connection and try again.",
+    "retry": "Retry",
+    "continue": "Continue to Vehicle Selection",
+    "back": "Back",
+    "vehicleStep": {
+      "title": "Choose your vehicle",
+      "seats": "seats",
+      "luggage": "Luggage",
+      "priceOnRequest": "Custom quote",
+      "continue": "Continue to Confirm"
+    },
+    "detailsStep": {
+      "title": "Your details",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter your name",
+      "phone": "Phone No.",
+      "email": "Email Address",
+      "emailPlaceholder": "you@example.com",
+      "flightNo": "Flight No. (if applicable)",
+      "flightNoPlaceholder": "e.g. SV1234",
+      "paymentMethod": "Payment Method",
+      "cashOnArrival": "Cash on Arrival",
+      "cashOnlyNote": "Pay the driver directly on arrival — no advance payment required.",
+      "confirm": "Confirm Booking"
+    },
+    "success": {
+      "title": "Booking Submitted!",
+      "message": "Your booking request has been received. Our WhatsApp team will confirm details and pricing shortly.",
+      "bookingRef": "Booking Reference",
+      "bookForMe": "Chat on WhatsApp",
+      "makeAnother": "Make another booking"
+    },
+    "summaryLabel": "BOOKING SUMMARY",
+    "summaryTitle": "Your Trip",
+    "tripType": "Trip Type",
+    "route": "Route",
+    "dateLabel": "Date",
+    "timeLabel": "Time",
+    "passengersLabel": "Passengers",
+    "vehicleLabel": "Vehicle",
+    "totalEstimate": "Total Estimate",
+    "whatsapp": "Or chat on WhatsApp",
+    "trust": {
+      "secure": "Secure Booking",
+      "support": "24/7 Support",
+      "noFees": "No Hidden Fees",
+      "cancel": "Free Cancellation 24h"
+    }
+  },
+  "footer": {
+    "about": "Salam Cab provides professional private transfer services across Saudi Arabia. Safe, comfortable, and reliable transportation for Umrah pilgrims and travelers.",
+    "quickLinks": "Quick Links",
+    "ourFleet": "Our Fleet",
+    "popularRoutes": "Popular Routes",
+    "bookRide": "Book a Ride",
+    "ourServices": "Our Services",
+    "services": {
+      "airport": "Airport Transfers",
+      "umrah": "Umrah Transfers",
+      "makkahMadinah": "Makkah <> Madinah Transfers",
+      "hotel": "Hotel Transfers",
+      "family": "Family & Group Transport",
+      "corporate": "Corporate Travel"
+    },
+    "contactUs": "Contact Us",
+    "location": "Saudi Arabia",
+    "phone": "+966 59 320 5151",
+    "email": "admin@salamcabs.com",
+    "whatsapp": "WhatsApp Support 24/7",
+    "copyright": "© 2026 Salam Cabs. All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "refund": "Refund Policy"
+  },
+  "common": {
+    "readMore": "Read More",
+    "loading": "Loading...",
+    "notSet": "—",
+    "stars": "stars",
+    "whatsappChat": "Chat with us on WhatsApp"
+  },
+  "legal": {
+    "backHome": "Back to Home",
+    "lastUpdated": "Last updated: January 2026",
+    "privacy": {
+      "heroTitle": "Privacy",
+      "heroHighlight": "Policy",
+      "intro": "Salam Cab (\"we\", \"our\", \"us\") respects your privacy and is committed to protecting the personal information you share with us when you book a taxi, transfer, or Umrah transport service through our website.",
+      "sections": [
+        {
+          "title": "Information We Collect",
+          "body": "When you make a booking, we collect information such as your full name, phone number, email address, flight number, pick-up and drop-off locations, and payment preference. We also collect basic usage data (such as pages visited) to improve our website."
+        },
+        {
+          "title": "How We Use Your Information",
+          "body": "We use your information to confirm and manage your booking, send booking confirmations and updates by email or WhatsApp, assign a driver, provide customer support, and improve our services."
+        },
+        {
+          "title": "Sharing Your Information",
+          "body": "We only share your booking details with the driver assigned to your trip and, where required, with payment or communication providers who help us operate our service. We do not sell your personal information to third parties."
+        },
+        {
+          "title": "Data Security",
+          "body": "We use reasonable technical and organizational measures to protect your personal data from unauthorized access, loss, or misuse. Access to booking data is limited to authorized Salam Cab staff."
+        },
+        {
+          "title": "Your Rights",
+          "body": "You may request access to, correction of, or deletion of your personal information at any time by contacting us using the details below."
+        },
+        {
+          "title": "Cookies",
+          "body": "Our website may use essential cookies to remember your language preference and keep the booking process working smoothly. We do not use cookies for third-party advertising."
+        },
+        {
+          "title": "Changes to This Policy",
+          "body": "We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated revision date."
+        },
+        {
+          "title": "Contact Us",
+          "body": "If you have any questions about this Privacy Policy or how your data is handled, please reach out to us via WhatsApp, phone, or email using the contact details on our Contact page."
+        }
+      ]
+    },
+    "terms": {
+      "heroTitle": "Terms &",
+      "heroHighlight": "Conditions",
+      "intro": "These Terms & Conditions govern your use of Salam Cab's website and booking of our private taxi, Umrah, and airport transfer services across Makkah, Madinah, and Jeddah. By booking with us, you agree to the terms below.",
+      "sections": [
+        {
+          "title": "Booking & Confirmation",
+          "body": "A booking is confirmed once you complete the verification step and receive a booking reference. Prices are calculated based on the route, vehicle type, date, and any applicable surcharges shown at the time of booking."
+        },
+        {
+          "title": "Payment",
+          "body": "Payment is collected in cash directly from the driver upon arrival, unless otherwise agreed in writing. No advance online payment is required to confirm a booking."
+        },
+        {
+          "title": "Cancellations & Changes",
+          "body": "You may request to cancel or change your booking by contacting us via WhatsApp or phone. Please refer to our Refund Policy for details on cancellation timelines."
+        },
+        {
+          "title": "Vehicle & Driver Standards",
+          "body": "All vehicles are maintained to a high standard of cleanliness and safety, and all drivers are licensed and experienced in serving pilgrims and travelers across Saudi Arabia."
+        },
+        {
+          "title": "Passenger Responsibilities",
+          "body": "Passengers are responsible for providing accurate pick-up details, flight numbers, and passenger counts, and for being ready at the agreed pick-up time and location."
+        },
+        {
+          "title": "Liability",
+          "body": "Salam Cab is not liable for delays caused by circumstances beyond our reasonable control, including traffic, weather, or force majeure events. We will make every reasonable effort to notify you of any changes."
+        },
+        {
+          "title": "Changes to These Terms",
+          "body": "We may update these Terms & Conditions periodically. Continued use of our services after changes are posted constitutes acceptance of the updated terms."
+        },
+        {
+          "title": "Governing Law",
+          "body": "These Terms & Conditions are governed by the laws of the Kingdom of Saudi Arabia."
+        }
+      ]
+    },
+    "refund": {
+      "heroTitle": "Refund",
+      "heroHighlight": "Policy",
+      "intro": "We understand travel plans can change. This Refund Policy explains how cancellations and refunds are handled for bookings made through Salam Cab.",
+      "sections": [
+        {
+          "title": "Cancellation Window",
+          "body": "Bookings cancelled at least 24 hours before the scheduled pick-up time are eligible for a full refund or free rescheduling, where an advance payment has been made."
+        },
+        {
+          "title": "Late Cancellations",
+          "body": "Cancellations made less than 24 hours before pick-up, or no-shows, may not be eligible for a refund, as a vehicle and driver have already been allocated to your trip."
+        },
+        {
+          "title": "Cash on Arrival Bookings",
+          "body": "As most bookings are paid in cash on arrival, no advance payment is typically collected. In this case, cancelling simply releases your reserved vehicle with no charge."
+        },
+        {
+          "title": "How to Request a Refund or Change",
+          "body": "To cancel, reschedule, or request a refund for an advance payment, please contact us via WhatsApp or phone with your booking reference as soon as possible."
+        },
+        {
+          "title": "Processing Time",
+          "body": "Approved refunds for advance payments are processed within 5–7 business days back to the original payment method."
+        },
+        {
+          "title": "Contact for Refund Requests",
+          "body": "For any refund or cancellation request, reach our support team via WhatsApp, phone, or email listed on our Contact page — we're available 24/7."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+node_modules/
+.env
+npm-debug.log*
+
+# Uploaded vehicle images — user-generated content, not source
+public/uploads/*
+!public/uploads/.gitkeep
